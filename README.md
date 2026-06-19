@@ -1,4 +1,32 @@
+# 🚀 DevInsight Client
 
+Frontend dashboard for **DevInsight** – a real-time code analysis and API monitoring system built with React.
+
+It provides:
+- API performance monitoring dashboard
+- GitHub repository code analysis
+- Error & issue visualization
+- Historical analysis tracking
+- Real-time metrics charts
+
+---
+
+## 🖥️ Tech Stack
+
+- React.js
+- React Router DOM
+- Axios
+- Recharts
+- Inline CSS (custom UI system)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/devinsight-client.git
+cd devinsight-client
+npm install
 ---
 
 # 📁 SERVER README.md
